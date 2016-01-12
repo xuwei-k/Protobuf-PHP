@@ -1,7 +1,5 @@
 syntax = "proto2";
 
-import "php.proto";
-
 package tests;
 
 //option (php.namespace) = "Example";
